@@ -89,6 +89,20 @@ pip install numpy pandas matplotlib seaborn kagglehub
 # 3. Lancer le script
 python unemployment_analysis.py
 ```
+---
+
+## Visualisations
+
+### Chômage_covid
+![Exploration](chômage_covid.png)
+
+### Aperçu_du_chômage
+![Matrice de confusion](aperçu_du_chômage.png)
+
+### Chômage par régional
+![Comparaison](chômage_régional.png)
+
+---
 
 ---
 
