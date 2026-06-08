@@ -91,16 +91,14 @@ python unemployment_analysis.py
 ```
 ---
 
-## Visualisations
+### Impact du Covid-19
+![Covid-19](unemployment_covid.png)
 
-### Chomage covid
-![Exploration](chomage_covid.png)
+### Vue générale du chômage
+![Vue générale](unemployment_overview.png)
 
-### Apercu du chomage
-![Matrice](apercu_chomage.png)
-
-### Chomage regional
-![Comparaison](chomage_regional.png)
+### Analyse régionale
+![Analyse régionale](unemployment_regional.png)
 
 ---
 
