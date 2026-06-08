@@ -90,6 +90,7 @@ pip install numpy pandas matplotlib seaborn kagglehub
 python unemployment_analysis.py
 ```
 ---
+## Visualisations
 
 ### Impact du Covid-19
 ![Covid-19](unemployment_covid.png)
