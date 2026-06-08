@@ -93,14 +93,14 @@ python unemployment_analysis.py
 
 ## Visualisations
 
-### Chômage_covid
-![Exploration](chômage_covid.png)
+### Chomage covid
+![Exploration](chomage_covid.png)
 
-### Aperçu_du_chômage
-![Matrice de confusion](aperçu_du_chômage.png)
+### Apercu du chomage
+![Matrice](apercu_chomage.png)
 
-### Chômage par régional
-![Comparaison](chômage_régional.png)
+### Chomage regional
+![Comparaison](chomage_regional.png)
 
 ---
 
